@@ -115,9 +115,9 @@ The following table describes the controls on the **Report Group** tab.
 <td>Provisional</td>
 <td>Specify the types of activity that the reports include.
 <ul>
-<li><strong>Posted activity only</strong> − Include only the transactions and balances that are posted in your financial data.</li>
-<li><strong>Posted and unposted activity</strong> − Include all the transactions and balances that are entered and posted in your financial data.</li>
-<li><strong>Unposted activity only</strong> − Include only the transactions that are entered, but not yet posted, in your financial data.</li>
+<li><strong>Posted actuals & budget</strong> − Include the posted actual and budget transactions.</li>
+<li><strong>Posted actuals & budget, unposted budget</strong> − Include all of the posted actual and budget transactions, as well as unposted budget transactions.</li>
+<li><strong>Unposted budget only</strong> − Include only the unposted budget transactions.</li>
 </ul></td>
 </tr>
 <tr>
